@@ -15,7 +15,7 @@ Flask-SQLAlchemy==2.1
 Flask-WTF==0.14.2
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.9.5
+Jinja2==2.11.3
 Mako==1.0.6
 MarkupSafe==0.23
 PyCRC==1.21
